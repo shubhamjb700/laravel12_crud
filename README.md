@@ -1,1 +1,1 @@
-# laravel12_crud
+# Basic laravel CRUD functionality.
